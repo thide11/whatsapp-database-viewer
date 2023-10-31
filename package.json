@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-database-viewer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "sqlite3": "^5.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
